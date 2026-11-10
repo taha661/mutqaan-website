@@ -1,0 +1,2 @@
+const L=require('../lib/server.js');
+module.exports=L.wrap(async(req,res)=>{if(!L.hasStore())return L.send(res,404,{error:'No managed content'});const c=await L.R('GET','content');if(!c)return L.send(res,404,{error:'No managed content'});res.setHeader('Cache-Control','public, max-age=0, s-maxage=30');res.statusCode=200;res.setHeader('Content-Type','application/json; charset=utf-8');res.end(c)},['GET']);

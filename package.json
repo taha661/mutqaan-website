@@ -1,0 +1,1 @@
+{"name":"mutqaan-website","private":true,"version":"1.0.0","description":"Mutqaan Engineering & Construction website: static site + Vercel functions (no dependencies).","engines":{"node":">=18"},"scripts":{"test":"node test/run.js"}}

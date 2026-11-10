@@ -1,0 +1,686 @@
+{
+ "v": 1,
+ "updated": "2026-11-10",
+ "services": [
+  {
+   "slug": "construction",
+   "name": "Complete Construction",
+   "line": "Residential and commercial building from site preparation to handover.",
+   "who": "Owners and developers who want one accountable team for the whole build, from a plot to a finished building.",
+   "problems": [
+    "Splitting a build between several contractors with unclear responsibility",
+    "Grey structure and finishing that do not meet each other cleanly",
+    "Building services planned too late to fit the design"
+   ],
+   "scope": [
+    "Site preparation and setting out",
+    "Grey structure and civil works",
+    "Coordinated building services",
+    "Finishing works",
+    "Handover and defects review"
+   ],
+   "deliver": [
+    "A defined scope of work for your appointment",
+    "Coordinated programme of works",
+    "Site progress reviews",
+    "Handover package"
+   ],
+   "inputs": [
+    "Plot or site details and ownership documents",
+    "Approved drawings, or a brief we can develop into them",
+    "Budget range or a request for guidance",
+    "Target timing"
+   ],
+   "process": [
+    "Review the brief and site",
+    "Agree scope and responsibilities",
+    "Plan and sequence works",
+    "Build with progress reviews",
+    "Handover"
+   ],
+   "faqs": [
+    [
+     "Do you only build full turnkey projects?",
+     "Turnkey scope is defined per appointment. Some clients engage us for structure only or for finishing only."
+    ],
+    [
+     "Is structural design included?",
+     "Structural and building-services design are coordinated with appropriate specialist review rather than assumed."
+    ],
+    [
+     "Do you work on commercial buildings?",
+     "Yes. Residential and commercial projects are both in scope, with the appointment defining exactly what is included."
+    ]
+   ],
+   "img": "media/villa-noon.jpg",
+   "pub": true
+  },
+  {
+   "slug": "interiors",
+   "name": "Interior Design & Fit-out",
+   "line": "Layouts, concepts, ceilings, lighting, joinery and fit-out coordination.",
+   "who": "Homeowners and businesses furnishing a new or existing space who want a considered, coordinated result.",
+   "problems": [
+    "A layout that does not match how the space is used",
+    "Lighting and ceiling decisions made after the electrics",
+    "Joinery, curtains and furniture that never quite agree"
+   ],
+   "scope": [
+    "Residential and commercial layouts",
+    "Concept development and material palettes",
+    "Ceilings, lighting and wall treatments",
+    "Furniture, joinery and curtains",
+    "Fit-out coordination on site"
+   ],
+   "deliver": [
+    "Space plan and furniture layout",
+    "Concept board with material palette",
+    "Ceiling and lighting layouts",
+    "Joinery details",
+    "Fit-out coordination"
+   ],
+   "inputs": [
+    "Plans or measurements of the space",
+    "What stays and what changes",
+    "Intended use and occupancy",
+    "Budget range and timing"
+   ],
+   "process": [
+    "Brief and measure",
+    "Concept options",
+    "Develop chosen concept",
+    "Document and coordinate",
+    "Fit-out"
+   ],
+   "faqs": [
+    [
+     "Can you design without building?",
+     "Yes. Design and documentation can be commissioned separately from fit-out."
+    ],
+    [
+     "Is design development the same as a visualisation?",
+     "No. Design development resolves layout, materials and details. A visualisation shows a design that already exists. See 3D Visualisation."
+    ],
+    [
+     "Do you handle commercial interiors?",
+     "Yes. Shops, cafés and offices are designed and coordinated in the same way as homes, with layouts for how the space trades or works."
+    ]
+   ],
+   "img": "media/cafe.jpg",
+   "pub": true
+  },
+  {
+   "slug": "renovation",
+   "name": "Renovation & Remodelling",
+   "line": "From a single room to a full property, with phased work where needed.",
+   "who": "Owners of existing homes and premises who need to repair, reorganise or update without starting over.",
+   "problems": [
+    "Not knowing what can be kept, repaired or removed",
+    "Living or trading through the work",
+    "Surprises behind walls and under floors"
+   ],
+   "scope": [
+    "Existing-conditions review",
+    "Retention, repair and removal decisions",
+    "Room-by-room or whole-property remodelling",
+    "Phased work planning"
+   ],
+   "deliver": [
+    "Existing-conditions notes",
+    "Scope split into phases",
+    "Updated layouts and details",
+    "Coordinated works on site"
+   ],
+   "inputs": [
+    "Existing drawings if available",
+    "Photos and measurements",
+    "Priorities and what must stay",
+    "Timing and occupancy during works"
+   ],
+   "process": [
+    "Survey and review",
+    "Decide retain, repair, replace",
+    "Plan phases",
+    "Carry out works",
+    "Close out"
+   ],
+   "faqs": [
+    [
+     "Can we stay in the property during works?",
+     "Often, with phasing. It depends on the scope and which services are affected."
+    ],
+    [
+     "Can you work from photos alone?",
+     "Photos help with early discussion. A site visit and measurement are needed before any scope is fixed."
+    ]
+   ],
+   "img": "media/bedroom.jpg",
+   "pub": true
+  },
+  {
+   "slug": "drawings",
+   "name": "Drawings & Documentation",
+   "line": "Plans, elevations, sections, ceiling and lighting layouts, joinery and construction details.",
+   "who": "Owners, contractors and designers who need clear information to build, price or approve from.",
+   "problems": [
+    "Verbal instructions that different trades read differently",
+    "Prices that cannot be compared because drawings are incomplete",
+    "Services drawn separately from the architecture"
+   ],
+   "scope": [
+    "Floor plans and furniture layouts",
+    "Elevations and sections",
+    "Ceiling and lighting layouts",
+    "Joinery and construction details",
+    "Structural and MEP coordination with specialist review"
+   ],
+   "deliver": [
+    "Drawing set to the agreed scope",
+    "Revision log",
+    "Coordination notes"
+   ],
+   "inputs": [
+    "Survey or existing drawings",
+    "Design intent or approved concept",
+    "Required level of detail"
+   ],
+   "process": [
+    "Confirm scope and sheets",
+    "Draw and coordinate",
+    "Review with you",
+    "Issue and revise"
+   ],
+   "faqs": [
+    [
+     "Are these structural drawings?",
+     "Architectural and interior documentation is ours. Structural and MEP drawings need review by the relevant specialists."
+    ],
+    [
+     "Can I use these for approvals?",
+     "Approval requirements vary by authority. We will confirm what each submission needs when the scope is set."
+    ]
+   ],
+   "img": "media/villa-lines.jpg",
+   "pub": true
+  },
+  {
+   "slug": "estimation",
+   "name": "Estimation & BOQs",
+   "line": "Quantity take-offs, itemised scope, budget planning and specifications.",
+   "who": "Owners and contractors who want to know what a project involves before committing.",
+   "problems": [
+    "Budgets set without quantities behind them",
+    "Quotes that cannot be compared line by line",
+    "Specifications that leave room for substitution"
+   ],
+   "scope": [
+    "Quantity take-offs",
+    "Itemised scope and BOQ",
+    "Budget planning",
+    "Rate analysis",
+    "Specifications and vendor or material comparison"
+   ],
+   "deliver": [
+    "BOQ in an agreed format",
+    "Basis of rates and assumptions",
+    "Comparison of options where requested"
+   ],
+   "inputs": [
+    "Drawings or a detailed brief",
+    "Specification level",
+    "Location, since rates depend on it"
+   ],
+   "process": [
+    "Review drawings",
+    "Take off quantities",
+    "Apply dated rate evidence",
+    "Issue with assumptions"
+   ],
+   "faqs": [
+    [
+     "Can you price from a photo?",
+     "No. An estimate needs measured quantities and a defined scope. Photos only help frame the conversation."
+    ],
+    [
+     "Do you publish rates?",
+     "No. Rates change, so figures are prepared for your project with their date and basis stated."
+    ]
+   ],
+   "img": "media/villa-space.jpg",
+   "pub": true
+  },
+  {
+   "slug": "consultancy",
+   "name": "Project Consultancy",
+   "line": "Feasibility, review, contractor coordination and site supervision under an agreed scope.",
+   "who": "Owners who already have a design or a contractor and want independent, practical oversight.",
+   "problems": [
+    "Not knowing whether a plan is feasible before spending on it",
+    "Contractor claims you cannot verify",
+    "Progress that drifts from the drawings"
+   ],
+   "scope": [
+    "Feasibility and planning",
+    "Design and material review",
+    "Contractor coordination",
+    "Site supervision and progress review"
+   ],
+   "deliver": [
+    "Written review notes",
+    "Site visit reports",
+    "Recommendations to the agreed scope"
+   ],
+   "inputs": [
+    "Documents under review",
+    "Contract or quote if one exists",
+    "Access to site"
+   ],
+   "process": [
+    "Agree the question",
+    "Review documents and site",
+    "Report",
+    "Follow up on actions"
+   ],
+   "faqs": [
+    [
+     "Is consultancy only for projects you build?",
+     "No. It is offered on its own, under a scope we agree beforehand."
+    ]
+   ],
+   "img": "",
+   "pub": true
+  },
+  {
+   "slug": "visualisation",
+   "name": "3D Visualisation & Walkthroughs",
+   "line": "Photorealistic still renders, 3D modelling for visualisation and animated walkthroughs.",
+   "who": "Architects, designers, developers and owners who need to see a design before it is built. Bring your own drawings or model, or commission design and visualisation together.",
+   "problems": [
+    "Approving a design from plans that are hard to read",
+    "Presenting to partners or buyers before construction",
+    "Comparing material and lighting options early"
+   ],
+   "scope": [
+    "Interior and exterior still renders",
+    "3D modelling for visualisation",
+    "Animated architectural walkthroughs",
+    "Material and lighting studies"
+   ],
+   "deliver": [
+    "Still images at an agreed resolution",
+    "Walkthrough film at an agreed length",
+    "Source files and formats as agreed"
+   ],
+   "inputs": [
+    "Drawings or a 3D model",
+    "Material and furniture references",
+    "Camera views you want"
+   ],
+   "process": [
+    "Confirm views and outputs",
+    "Model and light",
+    "Review stills",
+    "Revise",
+    "Final delivery"
+   ],
+   "faqs": [
+    [
+     "Can I commission visualisation only?",
+     "Yes. It is a standalone service as well as part of design and build."
+    ],
+    [
+     "How long and how much?",
+     "Views, resolution, animation length, source drawings, revisions and output formats are agreed per project, so we do not publish fixed times or fees."
+    ],
+    [
+     "Is a render engineering documentation?",
+     "No. A render shows a design. It does not replace drawings or specialist engineering."
+    ],
+    [
+     "Is a slideshow a walkthrough?",
+     "No. A walkthrough is an animation through a 3D model, and we label any other format for what it is."
+    ],
+    [
+     "Do you offer 360 or VR tours?",
+     "Not as an advertised service at present. Ask us if your project needs one."
+    ]
+   ],
+   "note": "Views, image resolution, animation length, source models and drawings, revisions and output formats are agreed for each project. We visualise your own design as a standalone commission, or the design we develop with you. A render or walkthrough shows a design; it is not engineering documentation.",
+   "img": "media/villa-night.jpg",
+   "pub": true
+  }
+ ],
+ "projects": [
+  {
+   "slug": "hillside-villa",
+   "title": "Hillside Villa",
+   "pub": true,
+   "service": "construction",
+   "related": [
+    "visualisation",
+    "interiors",
+    "drawings"
+   ],
+   "kind": "Residential",
+   "tags": [
+    "Concept",
+    "Render",
+    "Walkthrough"
+   ],
+   "summary": "A two-storey family home with a cantilevered upper floor, a stone stair core and a pool terrace. Developed as a concept study to show the full path from massing to lines, lit renders and a navigable 3D model.",
+   "challenge": "Give a family living space that opens fully to the garden while staying shaded and private, and let the owner understand the design before construction.",
+   "scope": "Massing study, elevation linework, exterior and interior concept renders, a real-time 3D model with facade and light options, and a camera tour through the model.",
+   "decisions": [
+    "The upper floor cantilevers over the terrace, shading the living-room glazing at midday.",
+    "Full-height sliding glazing joins living and dining to the pool deck.",
+    "Vertical timber fins screen the upper bedroom from low western sun.",
+    "A stone-clad stair core anchors the composition and holds vertical services."
+   ],
+   "materials": [
+    "Natural stone cladding",
+    "White plaster or exposed concrete (both shown in the 3D model)",
+    "Timber fins and deck",
+    "Aluminium-framed glazing"
+   ],
+   "media": [
+    {
+     "src": "media/hero.jpg",
+     "alt": "Dusk view of a two-storey villa with a cantilevered upper floor, lit interior and a pool terrace",
+     "caption": "Exterior at dusk. Concept render."
+    },
+    {
+     "src": "media/villa-noon.jpg",
+     "alt": "Aerial midday view of the villa, garden, pool and driveway",
+     "caption": "Site at midday. Concept render."
+    },
+    {
+     "src": "media/villa-living.jpg",
+     "alt": "Living room with a long sofa, coffee table, floor lamp and kitchen beyond, lit warmly at dusk",
+     "caption": "Living and dining. Concept render."
+    },
+    {
+     "src": "media/villa-night.jpg",
+     "alt": "Night view of the villa from the garden with the pool and lit interior",
+     "caption": "Garden at night. Concept render."
+    },
+    {
+     "src": "media/villa-lines.jpg",
+     "alt": "Linework drawing of the villa front traced from the 3D model",
+     "caption": "Linework traced from the model."
+    }
+   ],
+   "model": true,
+   "provenance": "Original concept created for this website from a Mutqaan 3D model. Not client work.",
+   "verified": {}
+  },
+  {
+   "slug": "neighbourhood-cafe",
+   "title": "Neighbourhood Café",
+   "pub": true,
+   "service": "interiors",
+   "related": [
+    "drawings",
+    "estimation"
+   ],
+   "kind": "Commercial",
+   "tags": [
+    "Concept",
+    "Render"
+   ],
+   "summary": "A daylit café fit-out with a deep navy service counter, exposed timber beams and a row of pendants that leads customers from the door to the order point.",
+   "challenge": "Make a narrow commercial unit feel generous, keep the queue clear of seating, and give staff a working counter with storage.",
+   "scope": "Layout, ceiling and lighting concept, counter and shelving joinery intent, finishes palette and a concept render.",
+   "decisions": [
+    "The counter runs along the back wall so the queue never crosses the seating.",
+    "Exposed beams lower the perceived ceiling over tables for a calmer seated zone.",
+    "Pendants line up over the counter to guide customers.",
+    "Two-top tables can be pushed together for groups."
+   ],
+   "materials": [
+    "Timber beams and tables",
+    "Painted counter front with stone-effect top",
+    "Warm-white pendant lighting",
+    "Durable sealed timber-effect flooring"
+   ],
+   "media": [
+    {
+     "src": "media/cafe.jpg",
+     "alt": "Café interior with timber beams, pendant lights over a navy counter, round tables and a large window",
+     "caption": "Seating and counter. Concept render."
+    }
+   ],
+   "model": false,
+   "provenance": "Original concept created for this website from a Mutqaan 3D model. Not client work.",
+   "verified": {}
+  },
+  {
+   "slug": "bedroom-refresh",
+   "title": "Primary Bedroom Refresh",
+   "pub": true,
+   "service": "renovation",
+   "related": [
+    "interiors"
+   ],
+   "kind": "Residential",
+   "tags": [
+    "Concept",
+    "Render"
+   ],
+   "summary": "A renovation concept that keeps the window, flooring and room footprint, and changes the feel with a deep green feature wall, a cove ceiling and a timber headboard.",
+   "challenge": "Refresh a bedroom without moving windows or replacing the floor, so the work is quick and the room is usable sooner.",
+   "scope": "Retain-and-change review, lighting and ceiling concept, feature wall and headboard design, concept render.",
+   "decisions": [
+    "Window, floor and footprint are retained to keep the work light.",
+    "A cove ceiling gives soft indirect light and hides new wiring.",
+    "A deep green wall behind the bed gives a calm focal point.",
+    "A timber headboard adds warmth without new furniture clutter."
+   ],
+   "materials": [
+    "Washable matt paint (feature wall)",
+    "Gypsum board cove with LED strip",
+    "Timber headboard panel",
+    "Existing timber flooring (retained)"
+   ],
+   "media": [
+    {
+     "src": "media/bedroom.jpg",
+     "alt": "Bedroom with a deep green feature wall, timber headboard, cove ceiling light and a window on the right",
+     "caption": "Refreshed bedroom. Concept render."
+    }
+   ],
+   "model": false,
+   "provenance": "Original concept created for this website from a Mutqaan 3D model. Not client work.",
+   "verified": {}
+  }
+ ],
+ "materials": [
+  {
+   "id": "porcelain",
+   "name": "Porcelain tile",
+   "cat": "Floor & wall",
+   "use": "Floors, wet areas, walls, kitchens",
+   "crit": "Slip rating for the location, size and joint width, thickness, finish",
+   "maint": "Cleans easily. Grout lines need periodic cleaning and sealing as advised.",
+   "ask": [
+    "Slip rating for this area",
+    "Batch and shade consistency across the order",
+    "Adhesive and grout system recommended for it"
+   ],
+   "pub": true,
+   "source": "Mutqaan editorial guidance. General, not supplier-specific.",
+   "reviewed": "2026-11-10"
+  },
+  {
+   "id": "marble",
+   "name": "Natural marble",
+   "cat": "Floor & wall",
+   "use": "Feature floors, wall cladding, counters, vanities",
+   "crit": "Veining and variation, finish, thickness, sealing needs",
+   "maint": "Needs sealing and care with acids and stains.",
+   "ask": [
+    "Slab selection or sample only",
+    "Sealing and polishing plan",
+    "Fabrication and installation responsibility"
+   ],
+   "pub": true,
+   "source": "Mutqaan editorial guidance. General, not supplier-specific.",
+   "reviewed": "2026-11-10"
+  },
+  {
+   "id": "wood-floor",
+   "name": "Engineered wood flooring",
+   "cat": "Floor & wall",
+   "use": "Living areas and bedrooms",
+   "crit": "Wear layer, subfloor condition, moisture exposure, finish",
+   "maint": "Protect from standing water. Refinishing depends on wear layer thickness.",
+   "ask": [
+    "Subfloor moisture and flatness requirements",
+    "Underlay and fixing method",
+    "Warranty conditions"
+   ],
+   "pub": true,
+   "source": "Mutqaan editorial guidance. General, not supplier-specific.",
+   "reviewed": "2026-11-10"
+  },
+  {
+   "id": "timber",
+   "name": "Timber joinery",
+   "cat": "Joinery",
+   "use": "Wardrobes, kitchens, doors, panelling",
+   "crit": "Species or board type, finish, hardware, moisture exposure",
+   "maint": "Keep from prolonged moisture. Hardware may need adjustment over time.",
+   "ask": [
+    "Board or veneer specification",
+    "Hardware brand and rating",
+    "Finish system and touch-up method"
+   ],
+   "pub": true,
+   "source": "Mutqaan editorial guidance. General, not supplier-specific.",
+   "reviewed": "2026-11-10"
+  },
+  {
+   "id": "quartz",
+   "name": "Engineered quartz surface",
+   "cat": "Surfaces",
+   "use": "Kitchen and vanity counters",
+   "crit": "Thickness, edge profile, heat exposure, seams",
+   "maint": "Wipe clean. Use trivets for hot pans.",
+   "ask": [
+    "Heat and stain guidance from the maker",
+    "Seam positions on your layout",
+    "Sink and hob cut-out tolerances"
+   ],
+   "pub": true,
+   "source": "Mutqaan editorial guidance. General, not supplier-specific.",
+   "reviewed": "2026-11-10"
+  },
+  {
+   "id": "paint",
+   "name": "Paint and plaster finishes",
+   "cat": "Wall finish",
+   "use": "Interior walls and ceilings",
+   "crit": "Substrate preparation, sheen, washability, coating system",
+   "maint": "Touch up from the same batch where possible.",
+   "ask": [
+    "Number of coats and primer",
+    "Washability class for the room",
+    "Surface preparation included in price"
+   ],
+   "pub": true,
+   "source": "Mutqaan editorial guidance. General, not supplier-specific.",
+   "reviewed": "2026-11-10"
+  },
+  {
+   "id": "glazing",
+   "name": "Aluminium and glass glazing",
+   "cat": "Openings",
+   "use": "Windows, sliding doors, partitions",
+   "crit": "Glass type, frame system, sealing, opening type",
+   "maint": "Clean tracks and seals. Check hardware periodically.",
+   "ask": [
+    "Glass specification for the orientation",
+    "Frame system and finish",
+    "Installation and sealing method"
+   ],
+   "pub": true,
+   "source": "Mutqaan editorial guidance. General, not supplier-specific.",
+   "reviewed": "2026-11-10"
+  },
+  {
+   "id": "gypsum",
+   "name": "Gypsum board ceilings",
+   "cat": "Ceilings",
+   "use": "False ceilings, coves, lighting recesses",
+   "crit": "Board type for the room, framing, access panels, lighting coordination",
+   "maint": "Repair cracks at joints early. Keep clear of leaks.",
+   "ask": [
+    "Moisture-resistant board where needed",
+    "Access for services above",
+    "Lighting positions fixed before framing"
+   ],
+   "pub": true,
+   "source": "Mutqaan editorial guidance. General, not supplier-specific.",
+   "reviewed": "2026-11-10"
+  },
+  {
+   "id": "stone-clad",
+   "name": "Natural stone cladding",
+   "cat": "Facade",
+   "use": "Feature walls, stair cores, boundary walls",
+   "crit": "Stone type and finish, fixing system, weathering, joint pattern",
+   "maint": "Periodic cleaning; some stones need sealing against staining.",
+   "ask": [
+    "Fixing system and substructure",
+    "Sample panel approval before full order",
+    "Sealing requirement for the chosen stone"
+   ],
+   "pub": true,
+   "source": "Mutqaan editorial guidance. General, not supplier-specific.",
+   "reviewed": "2026-11-10"
+  },
+  {
+   "id": "fair-concrete",
+   "name": "Exposed (fair-faced) concrete",
+   "cat": "Facade",
+   "use": "Walls, slabs and features left visible",
+   "crit": "Formwork finish, mix consistency, curing, protective coating",
+   "maint": "Low upkeep; a sealer reduces staining. Repairs are hard to hide, so quality at pour matters.",
+   "ask": [
+    "Sample finish before main pours",
+    "Formwork type and tie pattern",
+    "Coating or sealer specification"
+   ],
+   "pub": true,
+   "source": "Mutqaan editorial guidance. General, not supplier-specific.",
+   "reviewed": "2026-11-10"
+  }
+ ],
+ "settings": {
+  "phone": "03700952198",
+  "phoneIntl": "+923700952198",
+  "phoneShow": "0370 0952198",
+  "email": "mutqaan@gmail.com",
+  "whatsapp": true,
+  "ai": {
+   "enabled": true,
+   "maxPhotos": 3,
+   "directions": 2,
+   "refinements": 1
+  },
+  "flags": {
+   "vr": false,
+   "sourcing": false
+  },
+  "seo": {
+   "title": "Mutqaan Engineering & Construction",
+   "description": "Design, build and visualise: complete construction, interior design, renovation, drawings, estimation, consultancy, photorealistic renders and 3D walkthroughs."
+  }
+ },
+ "log": [
+  {
+   "at": "2026-11-10T13:00:00Z",
+   "by": "build",
+   "what": "Initial content"
+  }
+ ]
+}
