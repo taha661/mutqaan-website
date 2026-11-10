@@ -9,6 +9,15 @@
 
 The master prompt's final deliverable is a verified public URL, so the assignment is **not complete** until Vercel is deployed and checked.
 
+## Update v4 (10 Nov 2026)
+- **3D engine v2:** procedural materials (wood floors, tiles, stone, marble, fabric, grass, concrete), glossy reflections and clouds. Redesigned interiors: living room with media wall, dining, a full kitchen with island and stools, and a bedroom; terrace and pool furniture. The camera tour now ends in the kitchen. All renders were regenerated, plus a new kitchen render.
+- **Simpler inquiry form:** name, phone/WhatsApp and message, with service, email and location optional. Up to 3 photos, stored privately and visible only in Admin > Inbox (`/api/admin/inqimg`, signed-in only). A Roman Urdu note and examples are on the form.
+- **Alerts:**
+  - An email alert goes to the site email through FormSubmit after an inquiry is saved. FormSubmit sends a one-time activation email to that address first, and the owner must click **Activate**.
+  - The success screen offers "Send on WhatsApp" to the owner's number.
+  - The inbox does not depend on either alert.
+- **Tests:** 45 server tests, including photo validation and privacy.
+
 ## 2. What was built
 - **Design:** an ivory, navy and gold editorial system, the owner's original logo, and serif headings (Newsreader) with Instrument Sans body text, both from Google Fonts. Light and dark themes.
 - **Imagery:** original concept renders produced by an in-house WebGL engine (`source/engine.js`). Every image is labelled as illustrative; there are no stock photos and no client work.

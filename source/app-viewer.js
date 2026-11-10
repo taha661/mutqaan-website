@@ -1,6 +1,6 @@
 /* ---------- 3D viewer component ---------- */
 const VW={};const cap=s=>s.charAt(0).toUpperCase()+s.slice(1);
-const TOURNAMES=['Approach','Garden','Poolside','Into the living room','Living','Dining and kitchen'];
+const TOURNAMES=M3.TOUR.names;
 function viewerHTML(id,o){o=o||{};
  if(o.room)return `<div class="viewer" id="${id}" style="position:absolute;inset:0;aspect-ratio:auto;border:0"><canvas role="img" aria-label="Interactive 3D room preview. Drag to look around."></canvas><div class="vw-load"><span class="spin"></span></div></div>`;
  return `<div class="viewer" id="${id}"><img class="poster" src="media/hero.jpg" alt="Still render of the villa model at dusk" loading="lazy"><canvas role="img" aria-label="Interactive 3D model of an illustrative villa. Use the tour, light and facade controls below."></canvas>
@@ -13,7 +13,7 @@ function viewerHTML(id,o){o=o||{};
 <p class="tiny muted" style="margin-top:14px">Illustrative model built for this website. The tour follows a camera path through the 3D geometry; it is not a film of a built project.</p>`}
 function viewersStop(){for(const k in VW){const v=VW[k];v.dead=true;cancelAnimationFrame(v.raf);if(v.io)v.io.disconnect();if(v.ro)v.ro.disconnect();try{const e=v.R&&v.R.gl.getExtension('WEBGL_lose_context');if(e)e.loseContext()}catch(x){}delete VW[k]}}
 function mountViewer(id,o){o=o||{};const el=document.getElementById(id);if(!el||VW[id])return;
- const v=VW[id]={el,o,theta:.62,phi:.2,rad:o.room?7.5:31,target:o.room?[0,1.2,0]:[0,2.8,1],light:o.light||(o.room?'morning':'dusk'),facade:'stone',tour:false,t:0,playing:false,dirty:true,visible:false,params:o.params||{layout:'lounge',ceiling:'cove'}};
+ const v=VW[id]={el,o,theta:.62,phi:.2,rad:o.room?7.5:31,target:o.room?[0,1.2,0]:[0,2.8,1],light:o.light||(o.room?'studio':'dusk'),facade:'stone',tour:false,t:0,playing:false,dirty:true,visible:false,params:o.params||{layout:'lounge',ceiling:'cove'}};
  const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
  const start=()=>{if(v.R||v.dead)return;const cv=el.querySelector('canvas');let R=null;try{R=M3.create(cv,{dpr:o.mini?1.5:2,shadow:o.mini?1024:2048})}catch(e){R=null}
   if(!R){el.querySelector('.vw-load').innerHTML='<span class="small">3D needs WebGL 2, which this browser does not offer. The still render is shown instead.</span>';return}

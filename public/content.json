@@ -369,7 +369,7 @@
    ],
    "summary": "A two-storey family home with a cantilevered upper floor, a stone stair core and a pool terrace. Developed as a concept study to show the full path from massing to lines, lit renders and a navigable 3D model.",
    "challenge": "Give a family living space that opens fully to the garden while staying shaded and private, and let the owner understand the design before construction.",
-   "scope": "Massing study, elevation linework, exterior and interior concept renders, a real-time 3D model with facade and light options, and a camera tour through the model.",
+   "scope": "Massing study, elevation linework, exterior and interior concept renders (living, kitchen, bedroom), a real-time 3D model with facade and light options, and a camera tour through the model.",
    "decisions": [
     "The upper floor cantilevers over the terrace, shading the living-room glazing at midday.",
     "Full-height sliding glazing joins living and dining to the pool deck.",
@@ -397,6 +397,11 @@
      "src": "media/villa-living.jpg",
      "alt": "Living room with a long sofa, coffee table, floor lamp and kitchen beyond, lit warmly at dusk",
      "caption": "Living and dining. Concept render."
+    },
+    {
+     "src": "media/villa-kitchen.jpg",
+     "alt": "Kitchen with white cabinets, a marble waterfall island, four bar stools and black pendant lights at dusk",
+     "caption": "Kitchen and island. Concept render."
     },
     {
      "src": "media/villa-night.jpg",
@@ -681,6 +686,11 @@
    "at": "2026-11-10T13:00:00Z",
    "by": "build",
    "what": "Initial content"
+  },
+  {
+   "at": "2026-11-10T14:40:00Z",
+   "by": "build",
+   "what": "Detailed 3D interiors, kitchen render, simplified inquiry form"
   }
  ]
 }
